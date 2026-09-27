@@ -14,8 +14,7 @@ Unit: 1
 <br>
 List of Programs:
 <br>
-1) Program 1: Basic Data Types
-<br>
+1) Program 1: Basic Data Types:
 Scenario: Store student roll number, grade, and fee amount.
 <br>
 2) Program 2: if-else
